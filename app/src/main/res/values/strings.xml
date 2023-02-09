@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JavaQuize</string>
+
+    <string name="java_created_by_dennis_ritchie">Java Created by Dennis Ritchie</string>
+    <string name="welcome_to_java_basic_quiz">Welcome to Java Basic Quiz</string>
+
+    <string name="False" />
+</resources>
